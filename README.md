@@ -1,6 +1,6 @@
 # hbase
 
-## Original content
+## Original Content
 
 Apache HBase [1] is an open-source, distributed, versioned, column-oriented
 store modeled after Google' Bigtable: A Distributed Storage System for
@@ -33,7 +33,7 @@ The HBase mailing lists and archives are listed here [8].
 7. http://hbase.apache.org/docs/current/license.html
 8. http://hbase.apache.org/docs/current/mail-lists.html
 
-## Build With Eclipse
+## Build with Eclipse
 
 1. maven not work correctly case 1
 
